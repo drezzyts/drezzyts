@@ -7,7 +7,7 @@
 - 📫 Email: drezzydev@gmail.com ...
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## 🏓 Stack
+## 📦 Stack
 <div style="display: inline_block"><br>
   
   <img align="center" alt="drezzy-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
