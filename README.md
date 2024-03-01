@@ -14,6 +14,7 @@
 ## 📦 Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,nodejs,discordjs,figma,vscode,git,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,prisma"/ > <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,discordjs,figma,vscode,git,mongodb" />
   </a>
 </p>
