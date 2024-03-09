@@ -1,10 +1,6 @@
 # 🌙 Hello World! 
 > 🚀 ~ In space, we ponder the infinite and find ourselves. <br>
 
-<div>
-  <img align="center" alt="card" src="https://githubcard-yvi2.onrender.com/card?username=drezzyts&banner=https://i.imgur.com/F3IKIMT.jpeg"><br>
-</div>
-
 ## 🪐 About
 - 💻 Front-end & Back-end
 - 📘  Learning C++...
